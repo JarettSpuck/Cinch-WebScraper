@@ -1,0 +1,46 @@
+[
+    {
+        "web-scraper-order": "1718894267-1",
+        "web-scraper-start-url": "https://www.repairclinic.com/Shop-For-Parts?query=809006501",
+        "Product-link": "Door SealGenuine OEM Part # 809006501 | RC Item #3290453# 809006501 \n RC Item #3290453",
+        "Product-link-href": "https://www.repairclinic.com/PartDetail/Door-Seal/809006501/3290453",
+        "Name": "Door Seal 809006501",
+        "Price": "$18.49",
+        "In Stock": "In Stock",
+        "Shipping Time": "Order by 8:00 pm, this part ships TODAY!",
+        "Approximate Arrival Time": null
+    },
+    {
+        "web-scraper-order": "1718895012-1",
+        "web-scraper-start-url": "https://www.appliancepartspros.com/frigidaire-pure-air-ultra-paultra2-ap6783929.html",
+        "Product-link": null,
+        "Product-link-href": null,
+        "Name": "Air Filter PAULTRA2 / AP6783929",
+        "Price": "$17.08",
+        "In Stock": "In Stock",
+        "Shipping Time": null,
+        "Approximate Arrival Time": null
+    },
+    {
+        "web-scraper-order": "1718894838-1",
+        "web-scraper-start-url": "https://applianceparts365.com/electrolux-frigidaire-pure-air-ultra-2-air-filte-paultra2-1046349",
+        "Product-link": null,
+        "Product-link-href": null,
+        "Name": "Electrolux / Frigidaire Pure Air Ultra 2 Air Filte PAULTRA2",
+        "Price": "$15.61",
+        "In Stock": "In stock",
+        "Shipping Time": null,
+        "Approximate Arrival Time": null
+    },
+    {
+        "web-scraper-order": "1718895319-1",
+        "web-scraper-start-url": "https://www.partselect.com/PS12586284-Frigidaire-PAULTRA2-Air-Filter.htm?SourceCode=3&SearchTerm=PAULTRA2",
+        "Product-link": null,
+        "Product-link-href": null,
+        "Name": "Air Filter PAULTRA2",
+        "Price": 20.32,
+        "In Stock": "In Stock",
+        "Shipping Time": "Order within the next 6 hrs and your part ships today!",
+        "Approximate Arrival Time": "Get this part fast! Average delivery time for in-stock parts via standard shipping: 1.8 days."
+    }
+]
